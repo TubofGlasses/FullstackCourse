@@ -1,3 +1,4 @@
+```mermaid
 squenceDiagram
   participant browser
   participant server
